@@ -255,7 +255,9 @@ input:focus, textarea:focus {
     }
 
     .nav-logo {
-        height: 75px;
+        height: 75px
+        position: static;
+        margin: 0;
     }
 
     nav ul li {
